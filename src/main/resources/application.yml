@@ -1,0 +1,23 @@
+#spring:#  security:#    user:#      name: buzz#      password: infinity
+#spring: # profiles:  #  active: dev
+taco:  orders:    pageSize: 3 
+       discount:    codes:       abcdef: 10       ghijkl : 20      #key value pair for hashmap key: abcdef value: 10
+#---
+#spring:#  profiles: prod
+#  
+##
+# # datasource:
+#  #  url: jdbc:mysql://localhost/tacocloud
+#   # username: tacouser
+#   # password: tacopassword
+#
+#logging:
+#  level:
+#    tacos: WARN
+#      
+ 
+ 
+
+  
+    
+    
